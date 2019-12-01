@@ -12,5 +12,5 @@ INSTRUCTIONS & INFORMATION
 
 4. Then the program executes the algorithms. Totally there are 10 graphs and for each graph we execute 3 algorithms on 5 (s, t) pairs. Therefore we have 150 algorithm runs. That roughly takes another 7 minutes to complete. Together with the generation and execution step it would take 15 minutes for the program to finish. If we don't save the graphs it just takes 7 minutes.
 
-Note: No additional libraries have been used. And routing algorithm implementations have been referred from class notes.
+Note: No additional libraries have been used.
 
